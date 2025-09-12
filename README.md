@@ -1,9 +1,10 @@
-☕ Coffee Sales Analysis Dashboard
+S
 
-This project provides an interactive dashboard for analyzing coffee sales data from multiple store locations. It enables stakeholders to track performance, identify top-performing products, and uncover patterns across days and hours.
+☕ Coffee Sales Analysis Dashboar
+    This project provides an interactive dashboard for analyzing coffee sales data from multiple store locations. It enables stakeholders to track performance, identify top-performing products, and uncover            patterns across days and hours.
 
 📊 Overview
-The Coffee Sales Analysis Dashboard offers comprehensive insights into monthly revenues, product performance, and customer behavior across different days and hours. It helps managers and sales teams optimize inventory, marketing, and operations.
+     The Coffee Sales Analysis Dashboard offers comprehensive insights into monthly revenues, product performance, and customer behavior across different days and hours. It helps managers and sales teams optimize      inventory, marketing, and operations.
 
 📅 Weekly Sales Pattern
 Highest Sales Days: Thursday (14.68%) & Monday (14.63%)
