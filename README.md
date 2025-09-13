@@ -1,20 +1,22 @@
-☕ Excel Data Analysis Project by Harshad Shitole
+☕ Excel Data Analysis Project by Siddharth kumbhar
+
 📊 Coffee Sales Dashboard
-Coffee Background Banner (4)
+Coffee Background Banner (4
+
 
 📌 Overview
 This project features a detailed Coffee Sales Dashboard designed to present insights to the Regional Manager of a coffee chain operating across three store locations. The dashboard offers a comprehensive view of sales and customer behavior, enabling data-driven decisions aimed at optimizing operations and resource planning.
 
 🛠️ Tool Used
 Microsoft Excel Logo
-
 This analysis was conducted entirely using **Microsoft Excel**, leveraging its capabilities for data visualization, trend analysis, and business intelligence.
+
 📁 Dataset
 You can view the dataset used in this project here:
 🔗 Coffee Shop Sales Dataset (Excel)
 
 🎯 Key Performance Indicators (KPIs)
-The dashboard focuses on the following business-critical KPIs:
+ The dashboard focuses on the following business-critical KPIs:
 
 💰 Total Revenue – Overall income generated across all stores
 📦 Sales Volume – Number of transactions or products sold
@@ -36,12 +38,14 @@ The dashboard focuses on the following business-critical KPIs:
 📊 Sustained revenue growth suggests increasing customer engagement.
 🌸 A notable revenue spike in May may be attributed to holiday season trends — future resource planning should account for this.
 📦 Consider stock and staff planning for peak periods to improve efficiency and customer experience.
-image
+   image
 
 📚 Data Story
+
 📉 Low-performing products include certain flavored variants, coffee beans, and merchandise.
 🧥 Notably, merchandise clothing sales at the Hell's Kitchen store are significantly lower than other locations.
 💡 Recommendations:
 Introduce promotional offers to boost sales in that region.
 Alternatively, consider removing such items from in-store displays and offering them as order-only to reduce operational costs.
+
 📎 Dashboard Snapshot
