@@ -1,1 +1,89 @@
+# ☕ Coffee Sales Analysis Dashboard
+
+A visually rich and data-driven Excel dashboard designed to analyze coffee product sales across multiple store locations. The dashboard provides monthly revenue trends, product performance, and actionable sales targets to improve business outcomes.
+
+![Coffee Sales Dashboard Screenshot](./Screenshot%202025-09-13%20171915.png)
+
+---
+
+## 📊 Overview
+
+This Excel dashboard provides insights into:
+
+- 📈 Monthly revenue performance
+- 🏆 Top 10 selling coffee products
+- 📉 Bottom 10 underperforming products
+- 🗺️ Sales breakdown by store location
+- 🎯 Sales targets vs actuals with variance analysis
+
+---
+
+## 🔍 Key Highlights (June Analysis)
+
+- **Sales Target for June**: `$57,671.64`
+- **Actual Sales for June**: `$55,083.11`
+- **Shortfall**: `-$2,588.53`
+- **Next Month Target**: `$60,591.42`
+
+### Top Performing Product:
+- **Dark Chocolate (Large)** — Revenue: `$7,897.50` (1,755 units)
+
+### Lowest Performing Product:
+- **Dark Chocolate (Small)** — Revenue: `$83.50` (13 units)
+
+---
+
+## 🛠️ Tools Used
+
+- **Microsoft Excel**
+- **Pivot Tables**
+- **Data Visualization (Charts & Conditional Formatting)**
+- **Slicers for dynamic filtering**
+
+---
+
+## 📂 File Contents
+
+| File | Description |
+|------|-------------|
+| `Screenshot 2025-09-13 171915.png` | Preview of the Excel dashboard |
+| `coffee_sales_dashboard.xlsx` *(not included)* | Main interactive dashboard (optional to upload) |
+
+---
+
+## 🚀 How to Use
+
+1. Open the Excel file (`.xlsx`) in Microsoft Excel.
+2. Use the slicers to filter by store location.
+3. Analyze revenue trends and identify top/bottom-performing products.
+4. Compare monthly targets with actuals to guide business decisions.
+
+---
+
+## ✅ Insights & Recommendations
+
+- Increase promotion of underperforming items like **Dark Chocolate Small** and **Earl Grey**.
+- Focus on high-revenue items such as **Sustainably Grown Organic Lg** and **Latte Rg** for upselling.
+- Consider adjusting targets based on seasonal trends (see chart: revenue consistently increased from Jan to Jun).
+
+---
+
+## 🧾 License
+
+This project is for educational and business analysis purposes. All product names and brand logos are property of their respective owners.
+
+---
+
+## 🤝 Contributing
+
+Have suggestions or want to contribute? Feel free to fork the repo and submit a pull request!
+
+---
+
+## 📬 Contact
+
+For questions or collaboration inquiries, reach out via GitHub Issues or contact the project maintainer.
+
+---
+
 
