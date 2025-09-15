@@ -13,6 +13,9 @@ A visually rich and data-driven Excel dashboard designed to analyze coffee produ
 This Excel dashboard provides insights into:
 
 - 📈 Monthly revenue performance
+- <C:\Users\Siddharth\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 144813.png>
+- 
+- 
 - 🏆 Top 10 selling coffee products
 - 📉 Bottom 10 underperforming products
 - 🗺️ Sales breakdown by store location
