@@ -25,7 +25,11 @@ This Excel dashboard provides insights into:
 
 <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src=https://github.com/siddharthkumbhar517-cell/Coffee-Sales-Analysis-Dashboard/blob/main/Images/Screenshot%202025-09-15%20144848.png />
 
-<H1></H1>
+<H1>Revenue by Pattern </H1>
+
+<img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src= />
+
+
 
 
 
