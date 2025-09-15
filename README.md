@@ -10,7 +10,7 @@ This project features a detailed Coffee Sales Dashboard designed to present insi
 
 ---
 
-<H1>Coffee Sales Dashboard</H1>
+<H1>Coffee Sales Dashboard Screenshot </H1>
 
 <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src="https://github.com/user-attachments/assets/32d091c0-7909-454f-b11e-168826a6ddb6" />
 
