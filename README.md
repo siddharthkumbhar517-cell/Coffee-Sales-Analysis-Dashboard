@@ -20,6 +20,7 @@ This project features a detailed Coffee Sales Dashboard designed to present insi
 
 - **Microsoft Excel**
 <img  width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f61b069c-f2e0-4cb8-bfcf-d17d22a7d1c3" />
+This analysis was conducted entirely using **Microsoft Excel**, leveraging its capabilities for data visualization, trend analysis, and business intelligence.
 
 ---
 
