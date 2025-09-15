@@ -9,6 +9,24 @@ A visually rich and data-driven Excel dashboard designed to analyze coffee produ
 
 ---
 
+## 🛠️ Tools Used
+
+- **Microsoft Excel**
+<img  width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f61b069c-f2e0-4cb8-bfcf-d17d22a7d1c3" />
+
+---
+
+<H1>📚 Data Story</H1>
+📉 Low-performing products include certain flavored variants, coffee beans, and merchandise.
+
+🧥 Notably, merchandise clothing sales at the Hell's Kitchen store are significantly lower than other locations.
+
+💡 Recommendations:
+Introduce promotional offers to boost sales in that region.
+Alternatively, consider removing such items from in-store displays and offering them as order-only to reduce operational costs.
+
+---
+
 ## 📊 Overview
 
 This Excel dashboard provides insights into:
@@ -33,17 +51,7 @@ This Excel dashboard provides insights into:
 
 
 ---
----
 
-## 🛠️ Tools Used
-
-- **Microsoft Excel**
-<img  width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f61b069c-f2e0-4cb8-bfcf-d17d22a7d1c3" />
-
-
----
-
-## 📂 File Contents
 
 ---
 
