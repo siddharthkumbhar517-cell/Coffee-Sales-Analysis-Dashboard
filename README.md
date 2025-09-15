@@ -17,8 +17,7 @@ This Excel dashboard provides insights into:
 - 📉 Bottom 10 underperforming products
 - 🗺️ Sales breakdown by store location
 - 🎯 Sales targets vs actuals with variance analysis
-- <H1>Daily Pattern</H1>
-![Stunning coffee Analysis]("C:\Users\Siddharth\OneDrive\Pictures\Screenshots\Screenshot 2025-09-15 144813.png")
+- <H1>Daily Pattern</H1> 
 
 
 ---
