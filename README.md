@@ -17,6 +17,8 @@ This Excel dashboard provides insights into:
 - 📉 Bottom 10 underperforming products
 - 🗺️ Sales breakdown by store location
 - 🎯 Sales targets vs actuals with variance analysis
+- <H1>Daily Pattern</H1>
+
 
 ---
 
