@@ -3,6 +3,13 @@
 
 A visually rich and data-driven Excel dashboard designed to analyze coffee product sales across multiple store locations. The dashboard provides monthly revenue trends, product performance, and actionable sales targets to improve business outcomes.
 
+---
+
+<H1>📌 Overview</H1>
+This project features a detailed Coffee Sales Dashboard designed to present insights to the Regional Manager of a coffee chain operating across three store locations. The dashboard offers a comprehensive view of sales and customer behavior, enabling data-driven decisions aimed at optimizing operations and resource planning.
+
+---
+
 <H1>Coffee Sales Dashboard</H1>
 
 <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src="https://github.com/user-attachments/assets/32d091c0-7909-454f-b11e-168826a6ddb6" />
