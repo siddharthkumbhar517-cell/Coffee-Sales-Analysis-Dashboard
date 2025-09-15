@@ -18,6 +18,7 @@ This Excel dashboard provides insights into:
 - 🗺️ Sales breakdown by store location
 - 🎯 Sales targets vs actuals with variance analysis
 - <H1>Daily Pattern</H1> 
+<H1></H1>
 
 
 ---
