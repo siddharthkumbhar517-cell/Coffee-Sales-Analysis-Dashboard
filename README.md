@@ -74,14 +74,15 @@ This Excel dashboard provides insights into:
 4. Compare monthly targets with actuals to guide business decisions.
 
 ---
-
-## ✅ Insights & Recommendations
-
-- Increase promotion of underperforming items like **Dark Chocolate Small** and **Earl Grey**.
-- Focus on high-revenue items such as **Sustainably Grown Organic Lg** and **Latte Rg** for upselling.
-- Consider adjusting targets based on seasonal trends (see chart: revenue consistently increased from Jan to Jun).
-
 ---
+
+<H1>📈 Key Insights</H1>
+📈 Revenue has shown consistent growth, indicating strong business performance.
+📅 Peak days are Mondays, Thursdays, and Fridays, aligning with high-energy workdays.
+⏰ Busiest hours are in the morning, coinciding with office commute hours.
+🏬 These patterns are consistent across all three stores.
+🥇 The best-selling category is Coffee, with Barista Espresso being the top product.
+
 
 ## 🧾 License
 
