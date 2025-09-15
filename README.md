@@ -1,4 +1,5 @@
 # ☕ Coffee Sales Analysis Dashboard 
+ <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src=https://www.foodinfotech.com/wp-content/uploads/2022/10/Starbucks-1.jpg/>
 
 
 A visually rich and data-driven Excel dashboard designed to analyze coffee product sales across multiple store locations. The dashboard provides monthly revenue trends, product performance, and actionable sales targets to improve business outcomes.
