@@ -33,20 +33,6 @@ This Excel dashboard provides insights into:
 
 
 ---
-
-## 🔍 Key Highlights (June Analysis)
-
-- **Sales Target for June**: `$57,671.64`
-- **Actual Sales for June**: `$55,083.11`
-- **Shortfall**: `-$2,588.53`
-- **Next Month Target**: `$60,591.42`
-
-### Top Performing Product:
-- **Dark Chocolate (Large)** — Revenue: `$7,897.50` (1,755 units)
-
-### Lowest Performing Product:
-- **Dark Chocolate (Small)** — Revenue: `$83.50` (13 units)
-
 ---
 
 ## 🛠️ Tools Used
@@ -58,11 +44,6 @@ This Excel dashboard provides insights into:
 ---
 
 ## 📂 File Contents
-
-| File | Description |
-|------|-------------|
-| `Screenshot 2025-09-13 171915.png` | Preview of the Excel dashboard |
-| `coffee_sales_dashboard.xlsx` *(not included)* | Main interactive dashboard (optional to upload) |
 
 ---
 
@@ -78,9 +59,13 @@ This Excel dashboard provides insights into:
 
 <H1>📈 Key Insights</H1>
 📈 Revenue has shown consistent growth, indicating strong business performance.
+
 📅 Peak days are Mondays, Thursdays, and Fridays, aligning with high-energy workdays.
+
 ⏰ Busiest hours are in the morning, coinciding with office commute hours.
+
 🏬 These patterns are consistent across all three stores.
+
 🥇 The best-selling category is Coffee, with Barista Espresso being the top product.
 
 
