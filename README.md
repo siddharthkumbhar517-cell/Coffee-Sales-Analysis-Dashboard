@@ -18,7 +18,7 @@ This Excel dashboard provides insights into:
 - 🗺️ Sales breakdown by store location
 - 🎯 Sales targets vs actuals with variance analysis
 - <H1>Daily Pattern</H1> 
- <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src= />
+ <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src=https://github.com/siddharthkumbhar517-cell/Coffee-Sales-Analysis-Dashboard/blob/main/Images/Screenshot%202025-09-15%20144954.png />
 
   
 <H1></H1>
