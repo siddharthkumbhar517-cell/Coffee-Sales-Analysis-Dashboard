@@ -62,6 +62,8 @@ This Excel dashboard provides insights into:
 ## 🚀 How to Use
 
 1. Open the Excel file (`.xlsx`) in Microsoft Excel.
+ <img width="1352" height="570" alt="Screenshot 2025-09-12 150824" src=<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f61b069c-f2e0-4cb8-bfcf-d17d22a7d1c3" />
+>
 2. Use the slicers to filter by store location.
 3. Analyze revenue trends and identify top/bottom-performing products.
 4. Compare monthly targets with actuals to guide business decisions.
