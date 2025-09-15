@@ -53,9 +53,7 @@ This Excel dashboard provides insights into:
 
 - **Microsoft Excel**
 <img  width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f61b069c-f2e0-4cb8-bfcf-d17d22a7d1c3" />
-- **Pivot Tables**
-- **Data Visualization (Charts & Conditional Formatting)**
-- **Slicers for dynamic filtering**
+
 
 ---
 
